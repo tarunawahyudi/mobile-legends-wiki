@@ -2,6 +2,16 @@
     <string name="app_name">Mobile Legends Wiki</string>
     <string name="heroes_name">Nama Hero</string>
     <string name="description">Deskripsi</string>
+    <string name="image_detail">Image Detail</string>
+    <string name="detail_title">Nama Hero</string>
+    <string name="detail_description">Deskripsi Hero</string>
+    <string name="back_button">Kembali</string>
+    <string name="your_name">Taruna Wahyudi</string>
+    <string name="your_occupation">Software Engineer</string>
+    <string name="your_bio">Saya adalah seorang backend developer di salah satu startup fintech terbesar di Indonesia. saat ini saya sedang mencoba belajar android development</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="action_about">About Me</string>
+    <string name="email">wahyuditaruna97@gmail.com</string>
 
     <string-array name="data_name">
         <item>Alice</item>
