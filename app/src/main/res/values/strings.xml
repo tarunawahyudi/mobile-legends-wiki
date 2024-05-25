@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Mobile Legends Wiki</string>
+    <string name="heroes_name">Nama Hero</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Alice</item>
+        <item>Alucard</item>
+        <item>Bane</item>
+        <item>Bruno</item>
+        <item>Clint</item>
+        <item>Eudora</item>
+        <item>Fanny</item>
+        <item>Franco</item>
+        <item>Karina</item>
+        <item>Rafaela</item>
+        <item>Tigreal</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Alice adalah penyihir vampir yang dapat menghisap nyawa musuh dengan kemampuannya, membuatnya sangat kuat dalam pertarungan tim.</item>
+        <item>Alucard adalah pemburu iblis yang tangguh dengan kemampuan lifesteal tinggi, mampu bertahan hidup dalam pertempuran yang sengit.</item>
+        <item>Bane adalah seorang bajak laut yang mengendalikan lautan dengan kekuatan mematikannya, mampu menyerang musuh dari jarak jauh dan dekat.</item>
+        <item>Bruno adalah pemain sepak bola yang menggunakan bola sebagai senjatanya, dengan tembakan super kuat dan kemampuan untuk menghindar dengan lincah.</item>
+        <item>Clint adalah penembak jitu dengan akurasi tinggi yang mampu memberikan damage besar dari jarak jauh, ideal untuk menghabisi musuh dengan cepat.</item>
+        <item>Eudora adalah penyihir petir yang dapat menghancurkan musuhnya dengan serangan sihir yang kuat dan stun yang mematikan.</item>
+        <item>Fanny adalah pembunuh yang sangat gesit, menggunakan kabelnya untuk bergerak cepat di medan perang dan mengejutkan musuh dengan serangan mendadak.</item>
+        <item>Franco adalah tank yang mampu menarik musuh ke arahnya dengan hook, memudahkan timnya untuk mengeliminasi target yang tertangkap.</item>
+        <item>Karina adalah assassin yang dapat menghilang dan menyerang dengan cepat, mampu membunuh musuh dengan serangan kritikal yang mematikan.</item>
+        <item>Rafaela adalah support yang dapat menyembuhkan dan melindungi rekan satu timnya, memberikan keunggulan dalam pertarungan dengan healing dan crowd control.</item>
+        <item>Tigreal adalah tank yang kokoh dengan kemampuan untuk mengendalikan pertempuran, menggunakan serangan area luas untuk melindungi timnya dan menghentikan musuh.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/alice</item>
+        <item>@drawable/alucard</item>
+        <item>@drawable/bane</item>
+        <item>@drawable/bruno</item>
+        <item>@drawable/clint</item>
+        <item>@drawable/eudora</item>
+        <item>@drawable/fanny</item>
+        <item>@drawable/franco</item>
+        <item>@drawable/karina</item>
+        <item>@drawable/rafaela</item>
+        <item>@drawable/tigreal</item>
+    </integer-array>
+</resources>
