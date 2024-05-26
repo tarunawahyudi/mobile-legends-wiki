@@ -1,2 +1,2 @@
 ## Screenshots
-![Screenshot 1](https://github.com/tarunawahyudi/mobile-legends-wiki/blob/main/screenshot/ss_1.png)
+![Screenshot 1](https://github.com/tarunawahyudi/mobile-legends-wiki/blob/master/screenshot/ss_1.png) ![Screen 2](https://github.com/tarunawahyudi/mobile-legends-wiki/blob/master/screenshot/ss_2.png)
