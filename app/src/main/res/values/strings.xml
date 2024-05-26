@@ -12,6 +12,10 @@
     <string name="profile_picture">profile picture</string>
     <string name="action_about">About Me</string>
     <string name="email">wahyuditaruna97@gmail.com</string>
+    <string name="story_hero">Story</string>
+    <string name="lorem">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="detail_role">Role\n</string>
+    <string name="nama_role">Role</string>
 
     <string-array name="data_name">
         <item>Alice</item>
@@ -25,6 +29,20 @@
         <item>Karina</item>
         <item>Rafaela</item>
         <item>Tigreal</item>
+    </string-array>
+
+    <string-array name="data_role">
+        <item>Mage</item>
+        <item>Fighter</item>
+        <item>Fighter</item>
+        <item>Marksman</item>
+        <item>Marksman</item>
+        <item>Mage</item>
+        <item>Assassin</item>
+        <item>Tank</item>
+        <item>Assassin</item>
+        <item>Support</item>
+        <item>Tank</item>
     </string-array>
 
     <string-array name="data_description">
@@ -41,6 +59,20 @@
         <item>Tigreal adalah tank yang kokoh dengan kemampuan untuk mengendalikan pertempuran, menggunakan serangan area luas untuk melindungi timnya dan menghentikan musuh.</item>
     </string-array>
 
+    <string-array name="data_story">
+        <item>Alice, Sang Ratu Kiamat, dulunya adalah ratu elf yang mulia. Namun, ketertarikannya pada sihir gelap membawanya kepada korupsi yang mengubahnya menjadi penyihir gelap yang kejam. Kini, Alice berambisi untuk menguasai Land of Dawn, menggunakan kekuatan sihirnya untuk menaklukkan semua yang menghalangi jalannya. Dengan kecerdikan dan kekuatannya, Alice menjadi ancaman besar bagi kedamaian dunia.</item>
+        <item>Alucard, seorang pemburu iblis legendaris, didorong oleh dendam atas kematian orang tuanya yang dibunuh oleh iblis. Berbekal pedang ganda yang mematikan, Alucard mengembara ke seluruh penjuru dunia untuk memburu dan menghancurkan setiap iblis yang ditemuinya. Tekadnya yang kuat dan kemampuannya yang luar biasa menjadikannya salah satu pemburu iblis paling ditakuti di Land of Dawn.</item>
+        <item>Bane, Sang Penguasa Tujuh Laut, adalah seorang kapten bajak laut yang perkasa. Dikhianati oleh krunya sendiri dan diubah menjadi makhluk undead yang mengerikan, Bane kini berkeliaran di lautan, mencari balas dendam terhadap mereka yang telah mengkhianatinya. Dengan kekuatan supernaturalnya, Bane menjadi teror di lautan, menghancurkan semua yang berani menghalangi jalannya.</item>
+        <item>Bruno, Pelindung Antoinerei, kehilangan kakinya dalam sebuah kecelakaan tragis. Namun, berkat teknologi canggih, ia diberikan kaki mekanik yang memberinya kesempatan kedua dalam hidup. Bruno menggunakan ketangkasan dan presisinya yang luar biasa untuk melindungi tanah airnya dan menginspirasi harapan di hati rakyatnya. Dia dikenal sebagai pahlawan yang berjuang tanpa kenal lelah demi keadilan.</item>
+        <item>Clint, Sang Penegak Keadilan dari Barat, adalah seorang penembak jitu dengan akurasi yang tak tertandingi. Ia berjuang sebagai seorang ranger yang kesepian, melindungi kotanya dari para bandit dan penjahat. Clint berdiri sebagai simbol keadilan, memastikan bahwa setiap orang mendapatkan perlindungan yang layak dan keadilan ditegakkan bagi mereka yang tak mampu membela diri.</item>
+        <item>Eudora, Penyihir Petir, menemukan bakatnya dalam sihir petir sejak usia muda. Dilatih di Eruditio, Eudora belajar mengendalikan kekuatan petir untuk menghancurkan musuh-musuhnya dengan kekuatan yang dahsyat. Dengan kemampuannya yang luar biasa, Eudora menjadi ancaman besar bagi siapa pun yang berani menantangnya di medan perang.</item>
+        <item>Fanny, Sang Penari Pedang, selalu bermimpi untuk bisa terbang sejak kecil. Menggunakan kait dan manuver udara yang lincah, ia menjadi seorang pembunuh yang terampil, menyerang dengan cepat dan menghilang tanpa jejak. Kemampuannya untuk bergerak cepat dan efisien membuatnya menjadi salah satu pembunuh paling mematikan di Land of Dawn.</item>
+        <item>Franco, Prajurit Beku, berasal dari utara yang dingin. Sebagai tank yang kuat dan tangguh, Franco menggunakan kail besinya untuk menarik musuh ke dalam genggamannya yang mematikan, memastikan mereka tidak bisa melarikan diri dari amarahnya. Dengan kekuatan fisik dan ketahanannya, Franco berdiri di garis depan pertempuran, melindungi rekan-rekannya dari bahaya.</item>
+        <item>Karina, Sang Bayangan Pedang, dilatih sebagai pembunuh oleh klan elvenya. Menggunakan pedang ganda dan penguasaan bayangan, ia mengeliminasi targetnya dengan presisi dan ketepatan yang luar biasa. Karina dikenal sebagai pembunuh bayaran yang tidak pernah gagal dalam misinya, selalu menyelesaikan tugasnya dengan efisiensi yang tinggi.</item>
+        <item>Rafaela, Sayap Kesucian, adalah makhluk surgawi yang turun ke Land of Dawn untuk membawa cahaya dan harapan. Dengan kekuatan penyembuhan dan kemampuan ilahi, Rafaela menjadi penopang bagi rekan-rekannya, selalu siap memberikan dukungan dan menyembuhkan luka-luka mereka di medan perang. Kehadirannya membawa ketenangan dan keyakinan kepada mereka yang berjuang bersamanya.</item>
+        <item>Tigreal, Sang Prajurit Fajar, adalah seorang ksatria mulia yang didedikasikan untuk melindungi kerajaannya. Dengan perisai dan pedangnya, ia memimpin serangan dalam pertempuran, menginspirasi rekan-rekannya dengan keberanian dan keteguhannya yang tak tergoyahkan. Tigreal adalah simbol keberanian dan pengorbanan, selalu siap berjuang demi keadilan dan kehormatan.</item>
+    </string-array>
+
     <integer-array name="data_photo">
         <item>@drawable/alice</item>
         <item>@drawable/alucard</item>
@@ -53,5 +85,19 @@
         <item>@drawable/karina</item>
         <item>@drawable/rafaela</item>
         <item>@drawable/tigreal</item>
+    </integer-array>
+
+    <integer-array name="data_photo_detail">
+        <item>@drawable/alice_detail</item>
+        <item>@drawable/alucard_detail</item>
+        <item>@drawable/bane_detail</item>
+        <item>@drawable/bruno_detail</item>
+        <item>@drawable/clint_detail</item>
+        <item>@drawable/eudora_detail</item>
+        <item>@drawable/fanny_detail</item>
+        <item>@drawable/franco_detail</item>
+        <item>@drawable/karina_detail</item>
+        <item>@drawable/rafaela_detail</item>
+        <item>@drawable/tigreal_detail</item>
     </integer-array>
 </resources>
